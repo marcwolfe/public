@@ -8,7 +8,7 @@
 
 ## Instructions
 I cloned the original repository that was sent to me and completed the project in a way where the solution just prints to the developer console, so the only steps needed to take to see the information is to 
-1. clone the repository. 
+1. Clone the repository. 
 2. Open the index.html file in your browser. 
 3. Open the developer console and tada! 
 
