@@ -7,7 +7,10 @@
 3. StarWars API
 
 ## Instructions
-I cloned the original repository that was sent to me and completed the project in a way where the solution just prints to the developer console, so the only steps needed to take to see the information is to 1. clone the repository. 2. Open the index.html file in your browser. 3. Open the developer console and tada! 
+I cloned the original repository that was sent to me and completed the project in a way where the solution just prints to the developer console, so the only steps needed to take to see the information is to 
+1. clone the repository. 
+2. Open the index.html file in your browser. 
+3. Open the developer console and tada! 
 
 ### Thought Process
 Upon learning that the project required interaction with an API, I first utilized the documentation to familiarize myself with the API. My next step was to make a few fetch requests to different endpoints to familiarize myself with the data structure. I then decided to hit the API endpoint for 'people' and would filter out certain individuals based on the projects requirements. I was initially stumped on how to access the 'homeplanet' endpoint for an individual because the data returned was another API. Then I had the idea to try another fetch request to pull out the data from the 'planets' endpoint and to my surprise it worked! Lastly I just used basic JavaScript principles such as a 'for loop and map' to iterate over the data and display the correct information in the developer console. 
